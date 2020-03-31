@@ -1,0 +1,19 @@
+<svg id="hourglass-preloader" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 90 118" style="transform: matrix(1, 0, 0, 1, 0, 0);">
+	  <title>Hourglass Preloader</title>
+		<defs>
+			<clipPath id="clip-one">
+			  <rect id="mask-one" x="0" y="12" width="118" height="60" data-svg-origin="0 12" style="transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 8.43768, 0, 1);"></rect>
+			</clipPath>
+			<clipPath id="clip-two">
+			  <rect id="mask-two" x="0" y="116" width="118" height="60" data-svg-origin="0 116" style="transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -7.78863, 0, 1);"></rect>
+			</clipPath>
+		</defs>
+		
+	  <path d="M73.31,64C73.31,51.54,87,45.27,93.8,33.57A54.93,54.93,0,0,0,101.46,7H26.54A54.93,54.93,0,0,0,34.2,33.57C41,45.27,54.69,51.54,54.69,64S41,82.73,34.2,94.43A54.93,54.93,0,0,0,26.54,121h74.92A54.93,54.93,0,0,0,93.8,94.43C87,82.73,73.31,76.46,73.31,64Z" transform="translate(-19 -5)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="4"></path>
+	  <path id="sand-two" d="M88,98.1C84.4,92,78.73,87.35,74.17,82a34.65,34.65,0,0,1-5.3-8.05,23.43,23.43,0,0,1-1.55-4.65c-0.32-1.45-.18-3.19-1.45-4.2A3,3,0,0,0,62.24,65c-1.34,1-1.21,2.66-1.52,4.12A25.72,25.72,0,0,1,56.88,78C53,83.75,47.55,88.14,43.21,93.52A45.81,45.81,0,0,0,33.92,115H94.08A48.61,48.61,0,0,0,88,98.1h0Z" transform="translate(-19 -5)" fill="#fff" opacity="0.66" clip-path="url(#clip-two)"></path>
+	
+	  <path id="sand-one" d="M40.1,29.84C43.68,36,49.32,40.54,53.87,45.9a34.52,34.52,0,0,1,5.28,8,23.35,23.35,0,0,1,1.55,4.63c0.32,1.45.18,3.18,1.45,4.18a3,3,0,0,0,3.6.08c1.33-1,1.21-2.65,1.52-4.1a25.62,25.62,0,0,1,3.82-8.81c3.83-5.77,9.3-10.15,13.62-15.52A44.44,44.44,0,0,0,94,13H34A48,48,0,0,0,40.1,29.84h0Z" transform="translate(-19 -5)" fill="#fff" opacity="0.66" clip-path="url(#clip-one)"></path>
+	
+	  <line id="top" x1="2" y1="116" x2="88" y2="116" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></line>
+	  <line id="bottom" x1="2" y1="2" x2="88" y2="2" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></line>
+	</svg>
